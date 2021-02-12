@@ -1,0 +1,22 @@
+.HeadingTasks{
+    font-family: "cardo-regular";
+    padding: 20px;
+}
+.ListOfTasks {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+
+}
+.Task {
+  background-color: cornsilk;
+}
+.deleteBtn{
+  margin-left: 0.2rem;
+  font-weight: bold;
+  background-color: cornsilk;
+  color: #262626;
+  text-align: center;
+  cursor: pointer;
+}
